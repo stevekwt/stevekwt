@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Steve! (he/him)
 
-## I'm transitioning from a career in writing to front-end development.  
+## Former writer transitioning to front-end development.  
 I learned C and R in university, and have always messed around with HTML, but only really got serious about coding in 2020. I got back into it with Python and JavaScript through [Treehouse](https://teamtreehouse.com/) and Udemy, and then stepped up my game in a big way and graduated from the Web Development bootcamp at [Juno College](https://junocollege.com/) in December 2020. **I'm now looking for work!**
 
 ## Post-bootcamp, I'm currently working on:
