@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Steve! (he/him)
+### Hi there 👋&nbsp; I'm Steve! (he/him)
 
 ## Award-winning writer transitioning to front-end development.  
 I learned C and R in university, and have always messed around with HTML, but only really got serious about coding in 2020. I got back into it with Python and JavaScript through [Treehouse](https://teamtreehouse.com/) and Udemy, and then stepped up my game in a big way and graduated from the Web Development bootcamp at [Juno College](https://junocollege.com/) in December 2020. **I'm now looking for work!**
