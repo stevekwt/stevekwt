@@ -13,6 +13,9 @@ I learned C and R in university, and have always messed around with HTML, but on
 - I plan on digging into the MERN stack to round out my front-end skills
 - I fantasize about making all kinds of bespoke gadgets with Raspberry Pis, but that may have to wait till I'm gainfully employed :)
 
+## I bring with me:
+- Community building, communication, and project management skills aplenty. I co-created [an events space in Toronto](https://en.wikipedia.org/wiki/Double_Double_Land), [wrote a book](https://bookhugpress.ca/shop/author/stephen-thomas/the-jokes-by-stephen-thomas/) that was [translated into French](http://tetepremiere.com/livre/cest-une-farce/), and co-created an [award-winning web series](https://www.one-tenproductions.com/).
+
 ## Get in touch!
 I'm super social and always interested in meeting new people. Down to chat, collaborate, and — did I mention **I'm looking for work**?  
   
