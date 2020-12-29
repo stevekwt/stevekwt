@@ -8,6 +8,7 @@ I learned C and R in university, and have always messed around with HTML, but on
 - Cleaning up [my portfolio](https://stevecodes.com/)
 - A quick refresher of my R knowledge with Justin Murphy's [Data Blogging with R](https://jmrphy.ck.page/data-blogging-mini-course)
 - Finishing up a small [Python For Journalists](https://datajournalism.com/watch/python-for-journalists/) course I started pre-bootcamp through datajournalism.com.
+- Making my way through Cormen/Leiserson/Rivest/Stein's 3rd edition of *Introduction to Algorithms*
 
 ## Next up:
 - I plan on digging into the MERN stack to round out my front-end skills
