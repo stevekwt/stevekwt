@@ -4,7 +4,7 @@
 I learned C and R in university, and have always messed around with HTML, but only really got serious about coding in 2020. I got back into it with Python and JavaScript through [Treehouse](https://teamtreehouse.com/) and Udemy, and then stepped up my game in a big way and graduated from the Web Development bootcamp at [Juno College](https://junocollege.com/) in December 2020. **I'm now looking for work!**
 
 ## Post-bootcamp, I'm currently working on:
-- Vanilla JS fundamentals with Wes Bos's [JavaScript 30](https://javascript30.com/) | 🗓 Day: **10**
+- Vanilla JS fundamentals with Wes Bos's [JavaScript 30](https://javascript30.com/) | 🗓 Day: **11**
 - Cleaning up [my portfolio](https://stevecodes.com/)
 - A quick refresher of my R knowledge with Justin Murphy's [Data Blogging with R](https://jmrphy.ck.page/data-blogging-mini-course)
 - Finishing up a small [Python For Journalists](https://datajournalism.com/watch/python-for-journalists/) course I started pre-bootcamp through datajournalism.com.
