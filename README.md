@@ -14,7 +14,7 @@ I learned C and R in university, and have always messed around with HTML, but on
 ## Get in touch!
 I'm super social and always interested in meeting new people. Down to chat, collaborate.
   
-[Email](stevekwthomas@gmail.com)  |  [Twitter](https://twitter.com/skwthomas)  |  [LinkedIn](https://www.linkedin.com/in/stephen-thomas-b5915344/)
+[Email](stevekwthomas@gmail.com)  |  [Twitter](https://twitter.com/skwthomas)  |  [LinkedIn](https://www.linkedin.com/in/stephen-thomas-b5915344/)  |  [Writing/journalism](http://www.stephenthomaswriter.com/)  |  [Copywriting/content writing](https://stephen-thomas-writing.netlify.app/)
 
 <!--
 **stevekwt/stevekwt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
