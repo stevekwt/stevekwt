@@ -1,6 +1,6 @@
 ### Hi there 👋&nbsp; I'm Steve! (he/him)
 
-[Email](stevekwthomas@gmail.com)  |  [Twitter](https://twitter.com/skwthomas)  |  [LinkedIn](https://www.linkedin.com/in/stephen-thomas-b5915344/)
+[Email](stevekwthomas@gmail.com)  |  [Twitter](https://twitter.com/skwthomas)  |  [LinkedIn](https://www.linkedin.com/in/stephen-thomas-b5915344/)  |  [Writing/journalism](http://www.stephenthomaswriter.com/)  |  [Copywriting/content writing](https://stephen-thomas-writing.netlify.app/)
 
 ## Award-winning writer and front-end developmer.  
 I learned C and R in university, and have always messed around with HTML, but only really got serious about coding in 2020. I got back into it with Python and JavaScript through [Treehouse](https://teamtreehouse.com/) and Udemy, and then stepped up my game in a big way and graduated from the Web Development bootcamp at [Juno College](https://junocollege.com/) in December 2020. I was a full-time developer from Jan 2021 to Apr 2022, and now I'm not, but I still take on a project occasionally.
